@@ -1,5 +1,5 @@
 scene.onOverlapTile(SpriteKind.Player, myTiles.transparency16, function (sprite, location) {
-    game.over(true)
+	
 })
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
